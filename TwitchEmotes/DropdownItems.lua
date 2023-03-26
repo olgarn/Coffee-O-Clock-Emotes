@@ -227,7 +227,8 @@ TwitchEmotes_dropdown_options = {
         "pillowJammies", "peepoFriends", "peepoGroovie", "peepoCat",
         "peepoSleepo"
     },
-    [26] = {--2
-	"CoffeeOClock","tugo","wickedstar","cumby","alexpog","benjiwide"
+    [26] = {--10
+	"CoffeeOClock","tugo","wickedstar","cumby","alexpog","benjiwide",
+    "boruncringe","chasedh","jonpog","shamble","delichfila"
     }
 };

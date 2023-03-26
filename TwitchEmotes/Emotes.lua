@@ -3579,7 +3579,14 @@ TwitchEmotes_defaultpack = {
     ["wickedstar"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\coffeeOclock\\wickedstar.tga:28:28",
     ["cumby"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\coffeeOclock\\cumby.tga:28:28",
     ["alexpog"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\coffeeOclock\\alexpog.tga:28:28",
-    ["benjiwide"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\coffeeOclock\\benjiwide.tga:28:28"
+    ["benjiwide"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\coffeeOclock\\benjiwide.tga:28:28",
+    ["boruncringe"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\coffeeOclock\\boruncringe.tga:28:28",
+    ["chasedh"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\coffeeOclock\\chasedh.tga:28:28",
+    ["jonpog"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\coffeeOclock\\jonpog.tga:28:28",
+    ["shamble"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\coffeeOclock\\shamble.tga:28:28",
+    ["delichfila"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\coffeeOclock\\delichfila.tga:28:28"
+
+
 
 
 
@@ -7662,7 +7669,15 @@ TwitchEmotes_emoticons = {
     ["wickedstar"] = "wickedstar",
     ["cumby"] = "cumby",
     ["alexpog"] = "alexpog",
-    ["benjiwide"] = "benjiwide"
+    ["benjiwide"] = "benjiwide",
+    ["boruncringe"] = "boruncringe",
+    ["chasedh"] = "chasedh",
+    ["jonpog"] = "jonpog",
+    ["shamble"] = "shamble",
+    ["delichfila"] = "delichfila",
+
+
+
 
 
 };
