@@ -7660,9 +7660,9 @@ TwitchEmotes_emoticons = {
     --coffee
     ["tugo"] = "tugo",
     ["wickedstar"] = "wickedstar",
-    ["cumby"] = "wickedstar",
-    ["alexpog"] = "wickedstar",
-    ["benjiwide"] = "wickedstar"
+    ["cumby"] = "cumby",
+    ["alexpog"] = "alexpog",
+    ["benjiwide"] = "benjiwide"
 
 
 };
