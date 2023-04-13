@@ -3225,6 +3225,17 @@ peepoGhost
 sadgers
 gladgers
 Voidge
+
+
+----
+Twitch Emotes V2.58.2
+----
+Removed h3h3productions to conserve file space
+
+Added:
+DocLeave
+DocArrive
+Smoge
 ----
 To do
 ----

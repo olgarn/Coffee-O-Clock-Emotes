@@ -322,6 +322,19 @@ function Emoticons_OnEvent(self, event, ...)
             end
         end
 
+        local dateTime = C_DateAndTime.GetCurrentCalendarTime()
+        if (dateTime.monthDay==4 and dateTime.month==5) and (dateTime.hour >= 10) then
+            TwitchEmotes_emoticons["Sayrahs"] = "PepeSith"
+            TwitchEmotes_emoticons["Sayramage"] = "PepeSith"
+            TwitchEmotes_emoticons["Sayradh"] = "PepeSith"
+        elseif (dateTime.monthDay==1 and dateTime.month==4) and (dateTime.hour >= 10) then
+            TwitchEmotes_defaultpack["flag_mk"] = "Interface\\AddOns\\TwitchEmotes\\Emotes\\Custom\\flag_mk.tga:28:28"
+            TwitchEmotes_emoticons["flag_mk"] = "flag_mk"
+            TwitchEmotes_emoticons["Sayrahs"] = "flag_mk"
+            TwitchEmotes_emoticons["Sayramage"] = "flag_mk"
+            TwitchEmotes_emoticons["Sayradh"] = "flag_mk"
+        end
+
         TwitchEmotesAnimatorUpdateFrame = CreateFrame("Frame", "TwitchEmotesAnimator_EventFrame", UIParent)
         Emoticons_EnableAnimatedEmotes(Emoticons_Settings["ENABLE_ANIMATEDEMOTES"])
 
